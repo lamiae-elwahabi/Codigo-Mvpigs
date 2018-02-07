@@ -1,0 +1,16 @@
+package org.mvpig.DNI;
+
+public class Dni 
+{
+    //Propiedades
+	private String dni = "";
+	private boolean numeroCorrecto = false;
+	
+	//Metodos
+	private void SetNumeroCorrecto(Boolean valor){
+	}
+		//Constructor
+
+		public Dni(){
+		}
+}

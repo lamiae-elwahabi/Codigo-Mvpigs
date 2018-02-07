@@ -1,0 +1,14 @@
+package org.mvpig.DNI;
+
+public class TablaAsignacion {
+	//Propiedad
+	//Nuestro array para almacenar no va cambiar en el tiempo de ejuccion
+	char[] tabla =  {'T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E' };
+	
+	//Constructor
+	
+	public char devuelveLetra(int posicion){
+		return this.tabla[posicion];
+		
+	}
+}
