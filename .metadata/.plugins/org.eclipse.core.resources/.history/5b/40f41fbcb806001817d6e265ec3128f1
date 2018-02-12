@@ -1,7 +1,0 @@
-package org.mvpig.DNI;
-
-public class Tabla {
-	//Propiedad
-	private ArrayList<Byte> valoraciones = new ArrayList<Byte>();
-
-}
