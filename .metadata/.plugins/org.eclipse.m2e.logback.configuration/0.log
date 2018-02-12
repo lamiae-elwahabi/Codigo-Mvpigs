@@ -1598,3 +1598,33 @@ org.eclipse.core.runtime.CoreException: Launch configuration StringLength refere
 2018-02-11 23:10:43,323 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
 2018-02-11 23:10:43,323 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-11 23:10:43,323 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 20:40:47,904 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-12 20:42:15,394 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:42:15,394 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 20:42:15,394 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:42:15,394 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 20:42:30,096 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:42:30,096 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 20:42:30,096 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:42:30,096 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 20:45:04,124 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpig:bookJavaProgramming:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\pom.xml.
+2018-02-12 20:45:04,655 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:45:04,655 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 20:45:04,655 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:45:04,655 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 20:45:07,547 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:45:07,547 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 20:45:07,547 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:45:07,562 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 20:47:32,397 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:47:32,397 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 20:47:32,397 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 20:47:32,397 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 21:12:59,963 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 21:12:59,963 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 21:12:59,963 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 21:12:59,963 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-12 21:13:35,721 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 21:13:35,721 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-12 21:13:35,725 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-12 21:13:35,725 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
