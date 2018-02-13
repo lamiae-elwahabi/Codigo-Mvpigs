@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JUnitTest" project="bookJavaProgramming" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="org.mvpigs.chapter6.JUnitTest" time="0.0">
+    <testcase name="testAssertNotNull" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertNotSame" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertNotSameLamiae" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertFalse" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertTruee" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertEquals" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertArrayEquals" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testNoInicializado" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertNull" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertSame" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+    <testcase name="testAssertTrue" classname="org.mvpigs.chapter6.JUnitTest" time="0.0"/>
+  </testsuite>
+</testrun>
