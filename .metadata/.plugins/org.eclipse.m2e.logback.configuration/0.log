@@ -1763,3 +1763,203 @@ org.eclipse.core.runtime.CoreException: Launch configuration StringLength refere
 2018-02-13 11:19:25,150 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
 2018-02-13 11:19:36,469 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-13 11:19:36,469 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\main\resources
+2018-02-13 11:19:36,469 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:19:36,469 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaProgramming\src\test\resources
+2018-02-13 11:42:49,165 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpig:bookJavaFundamentals:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\pom.xml.
+2018-02-13 11:42:49,587 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:42:49,587 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\main\resources
+2018-02-13 11:42:49,587 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:42:49,587 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\test\resources
+2018-02-13 11:43:09,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:43:09,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\main\resources
+2018-02-13 11:43:09,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:43:09,162 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\test\resources
+2018-02-13 11:45:27,301 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:45:27,301 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\main\resources
+2018-02-13 11:45:27,301 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:45:27,301 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\test\resources
+2018-02-13 11:47:19,026 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:47:19,026 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\main\resources
+2018-02-13 11:47:19,026 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 11:47:19,026 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\bookJavaFundamentals\src\test\resources
+2018-02-21 18:19:54,843 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-21 18:27:50,042 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\pom.xml
+2018-02-21 18:27:52,134 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpig:EjerciciosEstructuraDatos:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\pom.xml.
+2018-02-21 18:27:53,012 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjerciciosEstructuraDatos/src/main/java
+2018-02-21 18:27:53,031 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjerciciosEstructuraDatos/src/test/java
+2018-02-21 18:27:53,086 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-02-21 18:27:53,802 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:27:53,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:27:53,808 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:27:53,808 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:31:39,108 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:31:39,108 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:31:39,110 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:31:39,110 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:31:59,155 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:31:59,156 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:31:59,158 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:31:59,158 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:33:20,286 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:33:20,287 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:33:20,288 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:33:20,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:36:27,301 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:36:27,301 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:36:27,303 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:36:27,303 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:44:11,641 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:11,641 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:44:11,642 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:11,643 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:44:55,866 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:55,866 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:44:55,867 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:55,868 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:44:59,251 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:59,251 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:44:59,254 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:44:59,255 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:45:27,187 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:45:27,188 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:45:27,189 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:45:27,190 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:46:14,574 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:46:14,575 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:46:14,577 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:46:14,578 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:50:50,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:50:50,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:50:50,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:50:50,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:52:10,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:52:10,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:52:10,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:52:10,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 18:57:05,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:57:05,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 18:57:05,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 18:57:05,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:04:20,701 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:20,701 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:04:20,703 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:20,703 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:04:28,023 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:28,023 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:04:28,025 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:28,026 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:04:48,496 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:48,496 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:04:48,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:04:48,502 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:05:05,406 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:05:05,406 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:05:05,408 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:05:05,408 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:07:28,002 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:07:28,003 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:07:28,005 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:07:28,005 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:16:14,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:16:14,526 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:16:14,528 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:16:14,528 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:17:41,676 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:17:41,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:17:41,679 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:17:41,679 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:17:54,152 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:17:54,152 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:17:54,154 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:17:54,154 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:18:05,435 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:18:05,435 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:18:05,437 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:18:05,437 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:23:35,421 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:23:35,422 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:23:35,424 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:23:35,424 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:29:19,241 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:29:19,242 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:29:19,243 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:29:19,244 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:30:34,584 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:30:34,584 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:30:34,586 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:30:34,586 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:30:39,101 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:30:39,101 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:30:39,102 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:30:39,103 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:31:22,901 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:31:22,901 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:31:22,901 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:31:22,901 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:31:29,067 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:31:29,067 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:31:29,067 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:31:29,067 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:33:10,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:33:10,803 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:33:10,805 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:33:10,805 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:33:42,039 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:33:42,040 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:33:42,041 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:33:42,041 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:34:25,914 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:25,914 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:34:25,915 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:25,916 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:34:42,228 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:42,228 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:34:42,231 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:42,232 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:34:54,130 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:54,131 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:34:54,132 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:34:54,132 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:35:56,880 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:35:56,881 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:35:56,882 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:35:56,883 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:36:30,063 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:36:30,064 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:36:30,065 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:36:30,065 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:37:04,461 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:37:04,461 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:37:04,463 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:37:04,463 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:37:42,333 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:37:42,334 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:37:42,336 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:37:42,336 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:39:07,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:39:07,932 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:39:07,933 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:39:07,934 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:39:42,717 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:39:42,717 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:39:42,718 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:39:42,719 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:48:02,793 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:48:02,793 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:48:02,794 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:48:02,794 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:50:04,368 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:50:04,368 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:50:04,370 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:50:04,370 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:52:43,338 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:52:43,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:52:43,340 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:52:43,341 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:54:43,464 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:54:43,465 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:54:43,466 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:54:43,467 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\test\resources
+2018-02-21 19:55:25,710 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-21 19:55:25,711 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\Codigo-Mvpigs\EjerciciosEstructuraDatos\src\main\resources
+2018-02-21 19:55:25,712 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

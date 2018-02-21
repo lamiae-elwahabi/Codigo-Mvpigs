@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;org.mvpig.EjerciciosEstructuraDatos.App.java&apos; to &apos;Ejercicio1.java&apos;&#x0D;&#x0A;- Original project: &apos;EjerciciosEstructuraDatos&apos;&#x0D;&#x0A;- Original element: &apos;org.mvpig.EjerciciosEstructuraDatos.App.java&apos;&#x0D;&#x0A;- Renamed element: &apos;org.mvpig.EjerciciosEstructuraDatos.Ejercicio1.java&apos;" description="Rename compilation unit &apos;App.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;org.mvpig.EjerciciosEstructuraDatos{App.java" name="Ejercicio1.java" references="false" stamp="1519234298867" version="1.0"/>
+</session>

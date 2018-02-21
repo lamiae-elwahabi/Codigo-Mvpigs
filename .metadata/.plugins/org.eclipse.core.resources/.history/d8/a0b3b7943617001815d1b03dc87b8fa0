@@ -1,0 +1,6 @@
+package org.mvpig.EjerciciosEstructuraDatos;
+
+/**Escribe un programa que asigne números a una matriz de orden 4x5, comprendidos entre 1 y 10.
+ *El programa ha de almacenar la suma de los elementos de cada fila en un Array de 4 posiciones
+ *y la suma de los elementos pares de cada columna en un Array de 5 posiciones.
+ * /

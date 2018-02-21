@@ -1,0 +1,10 @@
+package org.mvpig.bookJavaFundamentals;
+
+public class Lamiae {
+	//Propiedades
+	private String nombre = "";
+	private String apellido = "";
+	private int talla = 0;
+	private double peso = 0.0;
+	
+}
